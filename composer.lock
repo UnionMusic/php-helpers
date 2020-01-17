@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7b5d5357c42a1556cef734190e0558b7",
+    "content-hash": "2d7b1d53fae19e3c210186f14595de13",
     "packages": [],
     "packages-dev": [
         {
@@ -132,12 +132,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "6034c2af01e264652a060e57f1e0288b4038a31a"
+                "reference": "1f261f1f7a2d08f72312c716ea4acc538259d67f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/6034c2af01e264652a060e57f1e0288b4038a31a",
-                "reference": "6034c2af01e264652a060e57f1e0288b4038a31a",
+                "url": "https://api.github.com/repos/composer/composer/zipball/1f261f1f7a2d08f72312c716ea4acc538259d67f",
+                "reference": "1f261f1f7a2d08f72312c716ea4acc538259d67f",
                 "shasum": ""
             },
             "require": {
@@ -204,7 +204,7 @@
                 "dependency",
                 "package"
             ],
-            "time": "2019-12-22T11:46:13+00:00"
+            "time": "2020-01-17T10:44:17+00:00"
         },
         {
             "name": "composer/semver",
@@ -2249,16 +2249,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "8.5.1",
+            "version": "8.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "7870c78da3c5e4883eaef36ae47853ebb3cb86f2"
+                "reference": "018b6ac3c8ab20916db85fa91bf6465acb64d1e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/7870c78da3c5e4883eaef36ae47853ebb3cb86f2",
-                "reference": "7870c78da3c5e4883eaef36ae47853ebb3cb86f2",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/018b6ac3c8ab20916db85fa91bf6465acb64d1e0",
+                "reference": "018b6ac3c8ab20916db85fa91bf6465acb64d1e0",
                 "shasum": ""
             },
             "require": {
@@ -2328,7 +2328,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2019-12-25T14:49:39+00:00"
+            "time": "2020-01-08T08:49:49+00:00"
         },
         {
             "name": "psr/container",
