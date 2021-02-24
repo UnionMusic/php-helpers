@@ -1823,7 +1823,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v8.28.1",
+            "version": "v8.29.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
